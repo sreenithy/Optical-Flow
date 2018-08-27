@@ -17,6 +17,6 @@ Find for each pixel a velocity vector u,v which says:
 **References**
 
 
-1. http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
+1.http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
 
 2.http://www.sci.utah.edu/~gerig/CS6320-S2013/Materials/CS6320-CV-S2012-OpticalFlow-I.pdf
