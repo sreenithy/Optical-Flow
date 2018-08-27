@@ -11,8 +11,7 @@ which says:
 – How quickly is the pixel moving across the image
 – In which direction it is moving
 
-**References **
-
+**References**
 
 1. http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
 
